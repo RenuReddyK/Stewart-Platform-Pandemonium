@@ -6,7 +6,7 @@ The Stewart Platform is a parallel robot structure consisting of a fixed base an
 Currently, the project is under the guidance of Professor Mark Yim, Director of the GRASP Lab at the University of Pennsylvania.
 
 # Video
-[![Watch the video]()](https://youtu.be/wrhXMWYDalc?si=GAKEMGViYUo0Md8o)
+[![Watch the video](https://github.com/RenuReddyK/Stewart-Platform-Pandemonium/assets/68454938/ec2526a9-3c84-4615-925b-edef5c6be6ed)](https://youtu.be/wrhXMWYDalc?si=GAKEMGViYUo0Md8o)
 
 
 # Technical Details
