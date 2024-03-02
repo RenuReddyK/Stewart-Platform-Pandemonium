@@ -5,6 +5,9 @@ The Stewart Platform is a parallel robot structure consisting of a fixed base an
 
 Currently, the project is under the guidance of Professor Mark Yim, Director of the GRASP Lab at the University of Pennsylvania.
 
+
+https://youtu.be/wrhXMWYDalc?si=GAKEMGViYUo0Md8o
+
 # Technical Details
 
 VICON Motion Capture - to track complex human dance moves and generate equation free trajectory
